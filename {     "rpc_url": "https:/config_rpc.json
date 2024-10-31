@@ -1,7 +1,0 @@
-{
-    "rpc_url": "https://eth-sepolia.public.blastapi.io",
-    "maxFeePerGas": "25",
-    "maxPriorityFeePerGas": "20",
-    "chainId": 11155111,
-    "gasLimit": 2000000
-}
